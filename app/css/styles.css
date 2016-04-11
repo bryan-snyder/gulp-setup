@@ -1,5 +1,11 @@
 .testing {
-  width: 71.42857%; }
+  width: 50%; }
 
 body {
   background-color: lightgreen; }
+
+header {
+  height: 200px;
+  background-color: pink;
+  border: 2px solid white; 
+}

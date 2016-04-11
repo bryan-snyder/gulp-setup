@@ -1,8 +1,19 @@
+
+
+
 // styles.scss
 .testing {
-	width: percentage(5/7);	
+	width: percentage(5/10);	
 }
+
 
 body {
 	background-color: lightgreen;
+
+}
+
+header {
+
+	height: 200px;
+	background-color: blue;
 }
