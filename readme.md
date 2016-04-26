@@ -1,4 +1,4 @@
-A Bowser and Gulp Setup Template
+Gulp Setup Template
 Bryan Snyder
 2016-04
 v.1
